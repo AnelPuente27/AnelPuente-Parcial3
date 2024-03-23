@@ -15,8 +15,8 @@ hostname = platform.node()
 cpu = platform.processor()
 
 diccionario = {'ip':local, 'so':sistema, 'version' :version, 'hostname' :hostname, 'cpu':cpu}
-dictionaryToJson = json.dumps(diccionario)
-print(dictionaryToJson)
+#dictionaryToJson = json.dumps(diccionario)
+#print(dictionaryToJson)
 file = open(file_name, "w")
 json.dump(diccionario, file, indent=4)
 file.close()
