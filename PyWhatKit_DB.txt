@@ -1,0 +1,20 @@
+Date: 13/4/2024
+Time: 9:39
+Phone Number: +524448288325
+Message: Hola desde python
+--------------------
+Date: 13/4/2024
+Time: 9:50
+Phone Number: +524448288325
+Message: Hola desde python
+--------------------
+Date: 13/4/2024
+Time: 10:27
+Group ID: HMSd7sLfFPy4ivP0YtAqvE
+Message: Testing message
+--------------------
+Date: 13/4/2024
+Time: 10:36
+Group ID: HMSd7sLfFPy4ivP0YtAqvE
+Message: Testing message
+--------------------
